@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+    text-align:center;
+
+}
+img{
+    margin-top: 70px;
+    border-radius: 40px;
+}
+h1{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(28, 156, 220);
+}
+h2{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+}
